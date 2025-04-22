@@ -22,6 +22,6 @@ describe('Benefits Component', () => {
     expect(screen.getByText(/Automated testing/)).toBeInTheDocument();
     expect(screen.getByText(/Immediate feedback/)).toBeInTheDocument();
     expect(screen.getByText(/Repeatable & consistent deployment process/)).toBeInTheDocument();
-    expect(screen.getByText(/Just software/)).toBeInTheDocument();
+    expect(screen.getByText(/Just awesome software/)).toBeInTheDocument();
   });
 });
