@@ -1,9 +1,8 @@
 ## Description
 
-Please include a summary of the change and which issue is fixed. Also include relevant motivation and context.
+Please include a summary of the change & why it was approached this way. Please include any additional content like screenshots or videos if relevant.
 
 Fixes # (issue)
-
 
 ## Checklist
 
