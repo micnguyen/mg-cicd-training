@@ -18,10 +18,10 @@ describe('Benefits Component', () => {
 
   test('renders all benefit items', () => {
     render(<Benefits />);
-    expect(screen.getByText(/Faster delivery of features/i)).toBeInTheDocument();
-    expect(screen.getByText(/Automated testing/i)).toBeInTheDocument();
-    expect(screen.getByText(/Immediate feedback/i)).toBeInTheDocument();
-    expect(screen.getByText(/Repeatable & consistent deployment process/i)).toBeInTheDocument();
-    expect(screen.getByText(/Just awesome software/i)).toBeInTheDocument();
+    expect(screen.getByText(/Faster delivery of features/)).toBeInTheDocument();
+    expect(screen.getByText(/Automated testing/)).toBeInTheDocument();
+    expect(screen.getByText(/Immediate feedback/)).toBeInTheDocument();
+    expect(screen.getByText(/Repeatable & consistent deployment process/)).toBeInTheDocument();
+    expect(screen.getByText(/Just awesome software/)).toBeInTheDocument();
   });
 });
