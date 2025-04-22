@@ -3,7 +3,7 @@ import './Benefits.css';
 
 function Benefits() {
   const benefits = [
-    "Faster delivery of features to production",
+    "Faster 23232 of features to production",
     "Automated testing reduces human error",
     "Immediate feedback on code quality",
     "Consistent and repeatable deployment process"
