@@ -1,6 +1,5 @@
-// src/components/Benefits.test.jsx
 import { render, screen } from '@testing-library/react';
-import '@testing-library/jest-dom';  // Add this import
+import '@testing-library/jest-dom';
 import Benefits from './Benefits';
 
 describe('Benefits Component', () => {
