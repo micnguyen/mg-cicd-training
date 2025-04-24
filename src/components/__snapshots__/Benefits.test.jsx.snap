@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Benefits Component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="benefits-container"
+    data-testid="benefits-container"
+  >
+    <p
+      class="benefits-intro"
+    >
+      Continuous Integration and Continuous Deployment streamlines software development by:
+    </p>
+    <ul
+      class="benefits-list"
+    >
+      <li
+        class="benefit-item"
+      >
+        Faster delivery of features to production
+      </li>
+      <li
+        class="benefit-item"
+      >
+        Automated testing reduces human error
+      </li>
+      <li
+        class="benefit-item"
+      >
+        Immediate feedback on code quality
+      </li>
+      <li
+        class="benefit-item"
+      >
+        Repeatable & consistent deployment process
+      </li>
+      <li
+        class="benefit-item"
+      >
+        Just awesome software
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

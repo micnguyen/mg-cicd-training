@@ -24,4 +24,9 @@ describe('Benefits Component', () => {
     expect(screen.getByText(/Repeatable & consistent deployment process/)).toBeInTheDocument();
     expect(screen.getByText(/Just awesome software/)).toBeInTheDocument();
   });
+
+  it('matches snapshot', () => {
+    const { asFragment } = render(<Benefits />);
+    expect(asFragment()).toMatchSnapshot();
+  });
 });
