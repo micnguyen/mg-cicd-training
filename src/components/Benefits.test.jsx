@@ -17,6 +17,7 @@ describe('Benefits Component', () => {
 
   test('renders all benefit items', () => {
     render(<Benefits />);
+
     expect(screen.getByText(/Faster delivery of features to production/)).toBeInTheDocument();
     expect(screen.getByText(/Automated testing reduces human error/)).toBeInTheDocument();
     expect(screen.getByText(/Immediate feedback on code quality/)).toBeInTheDocument();
