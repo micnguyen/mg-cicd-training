@@ -39,6 +39,11 @@ exports[`Benefits Component matches snapshot 1`] = `
       >
         Just awesome software
       </li>
+      <li
+        class="benefit-item"
+      >
+        Reduces bugs
+      </li>
     </ul>
   </div>
 </DocumentFragment>
