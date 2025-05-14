@@ -6,8 +6,10 @@ function Benefits() {
     "Faster delivery of features to production",
     "Automated testing reduces human error",
     "Immediate feedback on code quality",
+    "Reduces bugs",
     "Repeatable & consistent deployment process",
-    "Just awesome software"
+    "Just awesome software",
+
   ];
 
   return (

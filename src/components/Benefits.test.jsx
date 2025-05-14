@@ -23,6 +23,7 @@ describe('Benefits Component', () => {
     expect(screen.getByText(/Immediate feedback on code quality/)).toBeInTheDocument();
     expect(screen.getByText(/Repeatable & consistent deployment process/)).toBeInTheDocument();
     expect(screen.getByText(/Just awesome software/)).toBeInTheDocument();
+    expect(screen.getByText(/Reduces bugs/)).toBeInTheDocument();
   });
 
   it('matches snapshot', () => {

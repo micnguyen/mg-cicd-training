@@ -32,6 +32,11 @@ exports[`Benefits Component matches snapshot 1`] = `
       <li
         class="benefit-item"
       >
+        Reduces bugs
+      </li>
+      <li
+        class="benefit-item"
+      >
         Repeatable & consistent deployment process
       </li>
       <li
