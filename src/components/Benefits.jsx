@@ -7,9 +7,9 @@ function Benefits() {
     "Automated testing reduces human error",
     "Immediate feedback on code quality",
     "Repeatable & consistent deployment process",
-    "Just awesome software",
+    "Just awesome hello 123 ",
     "Reduces bugs",
-    "Another Entry woops some hello extra",
+    "Another woops some hello woo woo ",
   ];
 
   return (
