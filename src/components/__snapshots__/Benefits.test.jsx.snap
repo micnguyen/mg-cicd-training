@@ -44,6 +44,11 @@ exports[`Benefits Component matches snapshot 1`] = `
       >
         Reduces bugs
       </li>
+      <li
+        class="benefit-item"
+      >
+        Another Entry woops some extra text
+      </li>
     </ul>
   </div>
 </DocumentFragment>
