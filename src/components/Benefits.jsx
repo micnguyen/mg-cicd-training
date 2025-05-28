@@ -9,7 +9,7 @@ function Benefits() {
     "Repeatable & consistent deployment process",
     "Just awesome software",
     "Reduces bugs",
-    "Another Entry woops some extra hello",
+    "Another Entry woops some hello extra",
   ];
 
   return (
