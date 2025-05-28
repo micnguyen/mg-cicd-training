@@ -47,7 +47,7 @@ exports[`Benefits Component matches snapshot 1`] = `
       <li
         class="benefit-item"
       >
-        Another Entry woops some extra text
+        Another Entry woops some extra hello
       </li>
     </ul>
   </div>
