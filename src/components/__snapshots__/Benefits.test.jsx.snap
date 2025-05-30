@@ -27,6 +27,11 @@ exports[`Benefits Component matches snapshot 1`] = `
       <li
         class="benefit-item"
       >
+        Reduces bugs
+      </li>
+      <li
+        class="benefit-item"
+      >
         Immediate feedback on code quality
       </li>
       <li
@@ -38,11 +43,6 @@ exports[`Benefits Component matches snapshot 1`] = `
         class="benefit-item"
       >
         Just awesome software
-      </li>
-      <li
-        class="benefit-item"
-      >
-        Another Entry woops some hello extra
       </li>
     </ul>
   </div>

@@ -5,10 +5,10 @@ function Benefits() {
   const benefits = [
     "Fastest delivery of features to production",
     "Automated testing reduces human error",
+    "Reduces bugs",
     "Immediate feedback on code quality",
     "Repeatable & consistent deployment process",
     "Just awesome software",
-    "Another Entry woops some hello extra",
   ];
 
   return (
