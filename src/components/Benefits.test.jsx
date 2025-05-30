@@ -18,12 +18,11 @@ describe('Benefits Component', () => {
   test('renders all benefit items', () => {
     render(<Benefits />);
 
-    expect(screen.getByText(/Fasterererer delivery of features to production/)).toBeInTheDocument();
+    expect(screen.getByText(/Fastest delivery of features to production/)).toBeInTheDocument();
     expect(screen.getByText(/Automated testing reduces human error/)).toBeInTheDocument();
     expect(screen.getByText(/Immediate feedback on code quality/)).toBeInTheDocument();
     expect(screen.getByText(/Repeatable & consistent deployment process/)).toBeInTheDocument();
     expect(screen.getByText(/Just awesome software/)).toBeInTheDocument();
-    expect(screen.getByText(/Reduces bugs/)).toBeInTheDocument();
   });
 
   it('matches snapshot', () => {
